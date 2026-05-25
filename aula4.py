@@ -1,2 +1,2 @@
-Print("Novo arquivo")
-Print("Ultima Alteracao")
+print("Teste1")
+print("Teste2")
